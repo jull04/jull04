@@ -23,6 +23,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 ### &#127875; Интересные проекты:
 - [Автоматизация проведения митапов](https://github.com/jull04/meetup-angular) <img src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white" alt="Angular" title="Angular"/> <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"/>
